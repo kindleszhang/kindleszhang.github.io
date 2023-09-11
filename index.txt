@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Kindles zhang
+Kindles zhang
+Backend Devlopment
 
 Show Contacts
 
 Email
-richard@example.com
+kindleszhang@gmail.com
 
 Phone
-+1 (213) 352-2795
+Money if you wanna get
 
 Birthday
-June 23, 1982
+Feb 23, 1997
 
 Location
-Sacramento, California, USA
+Wuhan City, Hubei Province, CN
 
 # navbar
 
@@ -32,10 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+I used to devlopment c compiler for RISC-V arch base on LLVM. Now, I work on backend for some map service.
 
 ## service
 
